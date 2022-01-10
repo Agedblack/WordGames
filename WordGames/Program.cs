@@ -11,6 +11,7 @@ namespace WordGames
             Console.WriteLine("Agedblack!");
             Console.WriteLine("Agedblack!");
             Console.WriteLine("麻了!");
+            Console.WriteLine("麻了!");
         }
     }
 }
