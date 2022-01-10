@@ -9,6 +9,8 @@ namespace WordGames
             Console.WriteLine("Hello World!");
             Console.WriteLine("Agedblack!");
             Console.WriteLine("Agedblack!");
+            Console.WriteLine("Agedblack!");
+            Console.WriteLine("麻了!");
         }
     }
 }
